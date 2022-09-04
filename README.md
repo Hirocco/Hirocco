@@ -11,7 +11,7 @@ Few things in my profile are not updated yet!
 * 🌍  I'm based in Rzeszów
 * 🖥️  See my portfolio at [My porfolio page will appear soon :\]](http://https://github.com/Hirocco)
 * ✉️  You can contact me at [futuredev59@gmail.com](mailto:futuredev59@gmail.com)
-* 🚀  I'm currently working on [-](http://github.com/Hirocco/)
+* 🚀  I'm currently working on [CryptoFindrr](https://github.com/Hirocco/CryptoFindrr)
 * 🧠  I'm learning ReactJS
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
