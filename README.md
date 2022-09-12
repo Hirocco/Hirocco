@@ -9,7 +9,7 @@ I've been coding for 2 years now,started with c++, currently having fun with js,
 Few things in my profile are not updated yet!
 
 * 🌍  I'm based in Rzeszów
-* 🖥️  See my portfolio at [here]](https://portfolio-ten-brown-46.vercel.app/)
+* 🖥️  See my portfolio at [here](https://portfolio-ten-brown-46.vercel.app/)
 * ✉️  You can contact me at [futuredev59@gmail.com](mailto:futuredev59@gmail.com)
 * 🚀  I'm currently working on [CryptoFindrr](https://crypto-findrr.vercel.app/)
 * 🧠  I'm learning ReactJS
