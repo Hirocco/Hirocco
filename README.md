@@ -11,8 +11,8 @@ Few things in my profile are not updated yet!
 * 🌍  I'm based in Rzeszów
 * 🖥️  See my portfolio at [here](https://portfolio-ten-brown-46.vercel.app/)
 * ✉️  You can contact me at [futuredev59@gmail.com](mailto:futuredev59@gmail.com)
-* 🚀  I'm currently working on [CryptoFindrr](https://crypto-findrr.vercel.app/)
-* 🧠  I'm learning ReactJS
+* 🚀  I'm currently working on [TradingBot]
+* 🧠  I'm learning Machine Learning with python
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
 ### Skills
