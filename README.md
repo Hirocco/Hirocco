@@ -4,7 +4,7 @@ Hi 👋 My name is Kamil Uchwat
 Web developer
 -------------
 
-I've been coding for 2 years now,started with c++, currently having fun with js,html,css,tailwind and ReactJS/ExpressJs/NodeJs :>
+I've been coding for 4 years now,started with c++, few years after picked up js,html,css,tailwind, ReactJS/ExpressJs/NodeJs. Currently learning machine learning with python :>
 
 Few things in my profile are not updated yet!
 
