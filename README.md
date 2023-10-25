@@ -1,18 +1,9 @@
 Hi 👋 My name is Kamil Uchwat
 =============================
 
-Web developer
+CS student
 -------------
-
-I've been coding for 4 years now,started with c++, few years after picked up js,html,css,tailwind, ReactJS/ExpressJs/NodeJs. Currently learning machine learning with python :>
-
-Few things in my profile are not updated yet!
-
-* 🌍  I'm based in Rzeszów
-* 🖥️  See my portfolio at [here](https://portfolio-ten-brown-46.vercel.app/)
-* ✉️  You can contact me at [futuredev59@gmail.com](mailto:futuredev59@gmail.com)
-* 🚀  I'm currently working on [TradingBot]
-* 🧠  I'm learning Machine Learning with python
+* 🧠  I'm learning Machine Learning with python/c++
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
 ### Skills
