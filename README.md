@@ -3,7 +3,7 @@ Hi 👋 My name is Kamil Uchwat
 
 CS student
 -------------
-* 🧠  I'm currently learning Machine Learning with python and backend with C# + .NET framework :) 
+* 🧠  I'm currently into backend development with python/express and algorithmic trading :)
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
 ### Skills
