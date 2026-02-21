@@ -1,9 +1,9 @@
 Hi 👋 My name is Kamil Uchwat
 =============================
 
-CS student
+CS engineer
 -------------
-* 🧠  I'm currently into backend development with python/express and algorithmic trading :)
+* 🧠  Currently making money with aglos on stocks.
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
 ### Skills
