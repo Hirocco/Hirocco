@@ -3,7 +3,7 @@ Hi 👋 My name is Kamil Uchwat
 
 CS engineer
 -------------
-* 🧠  Currently making money with aglos on stocks.
+* 🧠  Currently making money with algos on forex.
 * 🤝  I'm open to collaborating on intresting projects,hit me up if you have any ideas !
 
 ### Skills
